@@ -1,0 +1,15 @@
+uvicorn
+fastapi
+pandas
+langchain
+langchain-community
+langchain-openai
+tiktoken
+pydantic
+openai
+faiss-cpu
+python-dotenv
+langdetect
+sentence-transformers
+torch
+rank_bm25

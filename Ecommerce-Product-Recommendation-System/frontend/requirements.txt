@@ -1,0 +1,5 @@
+streamlit
+requests
+pydantic
+streamlit-mic-recorder
+gTTS
